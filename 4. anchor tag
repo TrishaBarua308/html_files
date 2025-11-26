@@ -1,0 +1,19 @@
+<html>
+    <body>
+        <!--example 1-->
+        <a href="https://www.youtube.com/" target="_blank">Visit</a>
+        <br>
+
+        <!--example 2-->
+        <a href="mailto:trishabarua308@gmail.com"> Send an email</a>
+        <br>
+
+        <!--example 3-->
+        <a href="tel:0160000000">Call now</a>
+        <br>
+
+        <!--example 4-->
+        <a href="D:\html_tutorial\assets\shinchan-photo_8.jpg" download>Download now</a>
+
+    </body>
+</html>
