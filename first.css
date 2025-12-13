@@ -1,4 +1,62 @@
-h4{
-    color:maroon;
+.myClass{
+    color:darkblue;
+    font-size:40px
+}
+
+.myClass2{
+    background-color:lightblue;
+    margin:0%;
+    font-size:40px
+}
+
+#myID{
+    color:black;
+    font-size:40px;
+    background-color: lightcyan;
+}
+
+/*universal selector*/
+*{
+    margin:0;
+    padding:0;
+}
+
+/*group selector*/
+h3,h4,h5{
+    color:purple;
+    font-size:30px;
+}
+
+/*child selector div>h1*/
+div>h6{
+    color:indianred;
+    font-size:40px;
+
+}
+
+/*descendant selector*/
+div h1{
+    color:green;
+    font-size:50px;
+}
+
+.btn{
+    background-color:lightblue;
+    border:none;
+    padding:10px 20px;
+    font-size:30px;
+    cursor:pointer;
+}
+
+.btn:hover{
+    background-color:green;
+    color:white;
+}
+
+
+
+.myNewClass p:first-child
+{
+    color:green;
     font-size:40px;
 }
