@@ -1,0 +1,31 @@
+/* 
+background image
+
+body
+{
+    background-image:url("/assets/shinchan-photo_8.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+} */
+
+
+/* 
+
+gradient background
+
+body
+{
+    background: linear-gradient(to right, lightblue, lightgreen);
+    background: radial-gradient(circle, lightgreen, lightblue); 
+} */
+
+
+
+body
+{
+    background-image:url("/assets/shinchan-photo_8.jpg");
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-y; */
+    background-position: center center;
+    height:100vh;
+}
