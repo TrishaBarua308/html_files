@@ -1,0 +1,34 @@
+.box
+{
+    border: 5px solid black; 
+    border: 2px double darkblue;
+    border: 5px dotted blueviolet;
+    border: 5px dashed darkcyan;
+    border: 5px groove lightslategray;
+    border: 5px ridge lightgreen;
+    border: 5px inset lightgreen;
+    border: 5px outset lightgreen; 
+    
+}
+
+
+.radio
+{
+    border-style: double;
+    border-width: 2px 5px 5px 2px;
+}
+
+
+.radio
+{
+    width:100px;
+    height: 10px;
+    background-color: lightgrey;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+
+
+
+
+
